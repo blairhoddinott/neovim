@@ -3,8 +3,16 @@
 
 ## Overview
 
-I have used base nvchad, and added a few plugins to make this a python-friendly IDE experience. I have used Dreams of Code youtube [video](https://www.youtube.com/watch?v=4BnVeOUeZxc) as a base. Many thanks to him, and the nvchad project for making this a viable platform. Original nvchad README.md follows.
+I have used base nvchad, and added a few plugins to make this a python-friendly IDE experience. I have used Dreams of Code youtube [video](https://www.youtube.com/watch?v=4BnVeOUeZxc) as a base. Many thanks to him, and the nvchad project for making this a viable platform. 
 
+Plugins added:
+* black (for code formatting)
+* mypy (for python linting)
+* ruff (for python linting)
+* pyright (language server for python)
+* debugpy (for python debugger)
+
+Original nvchad README.md follows.
 <hr>
 
 
